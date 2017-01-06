@@ -1,11 +1,6 @@
 /*
- * File: NameSurfer.java
- * ---------------------
- *
- * Marc Wiggerman 11268360
- *
- * This program will implements the viewer for the baby-name database.
- *
+ * Marc Wiggerman
+ * 06/01/2017
  */
 
 import acm.program.*;
