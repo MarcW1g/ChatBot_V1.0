@@ -1,0 +1,5 @@
+thank You're welcome|It was a pleasure|Never mind|Let me know when i can do more for you!|
+joke I'm not the funny one around here|Rather not|I'm sorry, but I don't know any good jokes|
+name My name is Bot, $username$|That does not matter $username$|You can see my name $username$ between the two [brackets]|
+time The time is $getTime$, $username$|Let me see.... The time is $getTime$|It's $getTime$|
+problem what is your problem $username$?|Tell me what your problem is|
