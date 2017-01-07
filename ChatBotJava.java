@@ -1,7 +1,7 @@
 /*
  * ChatBotJava.java
  *
- * Marc Wiggerman
+ * Marc Wiggerman en Hans Wiggerman
  *
  * 06/01/2017
  */
