@@ -4,6 +4,7 @@
  * Marc Wiggerman en Hans Wiggerman
  *
  * 06/01/2017
+ * Hallo wij gaan weer!
  */
 
 import acm.program.*;
